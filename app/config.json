@@ -9,8 +9,8 @@
   "smtp": {
     "server": "sandbox.smtp.mailtrap.io",
     "port": 587,
-    "user": "40988ade02550c",
-    "password": "dd79ec7cd9c5f4",
+    "user": "0c6be00fac5f42",
+    "password": "a4b3da5932123c",
     "sender_email": "Python DataOps <pydataops@example.com>"
   },
   "paths": {
@@ -18,7 +18,7 @@
     "excel": "ComisionesCalculadas.xlsx"
   },
   "report": {
-    "to": "mgarcia.dmc@gmail.com",
+    "to": "tecnologias.yg@gmail.com",
     "subject": "Yolanda - Comisiones Calculadas",
     "body_html": "Estimado(a), <br>Adjunto encontrarás el archivo con las comisiones calculadas.<br>Saludos."
   }
